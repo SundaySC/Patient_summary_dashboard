@@ -5,4 +5,4 @@ This project was carried out with the use of Microsoft Power BI.
 The two datasets were downloaded from Kaggle.
 Imported to Power BI for cleaning and transformation.
 Power query was used to clean the data and perform calculated columns.
-The data was now used to build this awesome summary patient dashboard to understand the health issues of the patient.
+The data was now used to build this awesome summary patient dashboard to understand the patient's health issues.
